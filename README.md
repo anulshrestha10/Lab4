@@ -1,6 +1,6 @@
 # lab4
 
-A new Flutter project.
+2 Random number generating App and picking the greater one.
 ![image](https://user-images.githubusercontent.com/84695167/235304183-445d48b3-6d41-46e6-9c01-0b56e3004030.png)
 
 
