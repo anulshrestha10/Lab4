@@ -78,6 +78,7 @@ class _NumberGeneratorScreenState extends State<NumberGeneratorScreen> {
     return Scaffold(
       backgroundColor: Colors.white70,
       appBar: AppBar(
+        backgroundColor: Colors.blueGrey,
         title: const Text('Pick Greater Number'),
       ),
       body: Center(
